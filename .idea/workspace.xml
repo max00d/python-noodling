@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5f9664f-949b-4f7e-b6f4-471f0fbc516a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomCodingTasks/decoraters/decoraters1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomCodingTasks/decoraters/decorators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomCodingTasks/fibonnaci/cls_fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_answers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_niave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/nmist_ann.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-noodling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-noodling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-churn/.ipynb_checkpoints/explore_data-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/customer-churn/.ipynb_checkpoints/explore_data-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-churn/explore_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/customer-churn/explore_data.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,13 +41,64 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_answers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_niave.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomCodingTasks/decoraters/decoraters1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomCodingTasks/decoraters/decorators2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/cls_fib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -49,14 +110,21 @@
       <list>
         <option value="$PROJECT_DIR$/customer-churn/explore_data.ipynb" />
         <option value="$PROJECT_DIR$/customer-churn/explore_data.py" />
+        <option value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_answers.py" />
+        <option value="$PROJECT_DIR$/tensorflow/nmist_ann.py" />
+        <option value="$PROJECT_DIR$/tensorflow/nmist_ann.ipynb" />
+        <option value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/cls_fib.py" />
+        <option value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_niave.py" />
+        <option value="$PROJECT_DIR$/randomCodingTasks/decoraters/decorators2.py" />
+        <option value="$PROJECT_DIR$/randomCodingTasks/decoraters/decoraters1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="2759" />
-    <option name="height" value="1787" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="3092" />
+    <option name="height" value="1700" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -79,8 +147,24 @@
             <path>
               <item name="python-noodling" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-noodling" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-churn" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="randomCodingTasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-noodling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-noodling" type="462c0819:PsiDirectoryNode" />
+              <item name="randomCodingTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="decoraters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-noodling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-noodling" type="462c0819:PsiDirectoryNode" />
+              <item name="randomCodingTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="fibonnaci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-noodling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-noodling" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,8 +196,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="explore_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.decoraters1">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python-noodling" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,14 +205,124 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/customer-churn" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cls_fib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-noodling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customer-churn/explore_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/cls_fib.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decoraters1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-noodling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomCodingTasks/decoraters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomCodingTasks/decoraters/decoraters1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decorators2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-noodling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomCodingTasks/decoraters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomCodingTasks/decoraters/decorators2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fib_answers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-noodling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_answers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fib_niave" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-noodling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_niave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -137,7 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.explore_data" />
+        <item itemvalue="Python.decoraters1" />
+        <item itemvalue="Python.decorators2" />
+        <item itemvalue="Python.fib_niave" />
+        <item itemvalue="Python.cls_fib" />
+        <item itemvalue="Python.fib_answers" />
       </list>
     </recent_temporary>
   </component>
@@ -153,19 +351,24 @@
       <updated>1559128289731</updated>
       <workItem from="1559128291642" duration="1745000" />
       <workItem from="1559217901124" duration="201000" />
-      <workItem from="1559725963804" duration="711000" />
+      <workItem from="1559725963804" duration="3823000" />
+      <workItem from="1560804781746" duration="772000" />
+      <workItem from="1561102842828" duration="5313000" />
+      <workItem from="1561108759168" duration="8235000" />
+      <workItem from="1561129993960" duration="5534000" />
+      <workItem from="1562149222754" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2657000" />
+    <option name="totallyTimeSpent" value="26043000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1839" height="1191" extended-state="7" />
+    <frame x="-7" y="-7" width="1381" height="885" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14542392" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="DB Browser" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4903339" visible="true" weight="0.21962264" />
+      <window_info id="DB Browser" order="1" />
+      <window_info id="Structure" order="2" sideWeight="0.5096661" side_tool="true" visible="true" weight="0.21962264" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -179,16 +382,17 @@
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32924527" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32943925" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.24735449" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="15" weight="0.32924527" />
+      <window_info anchor="bottom" id="Python Console" order="15" weight="0.45549738" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Key Promoter X" order="4" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info active="true" anchor="right" id="SciView" order="5" sideWeight="0.4973638" visible="true" weight="0.22037736" />
+      <window_info anchor="right" x="0" y="0" width="593" height="1215" id="Documentation" order="6" sideWeight="0.5026362" side_tool="true" visible="true" weight="0.22037736" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +402,22 @@
     <SUITE FILE_PATH="coverage/python_noodling$explore_data.coverage" NAME="explore_data Coverage Results" MODIFIED="1559129137556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/customer-churn" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Roaming/jupyter/runtime/nbserver-15468-open.html" />
+    <entry file="file://$PROJECT_DIR$/pycharm/interactive-sessions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-churn/explore_data (SurfacePro's conflicted copy 2019-06-21).ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/nmist_ann.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/nmist_ann.ipynb" />
     <entry file="file://$PROJECT_DIR$/customer-churn/explore_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -205,6 +425,47 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_answers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/fib_niave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomCodingTasks/decoraters/decorators2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomCodingTasks/fibonnaci/cls_fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomCodingTasks/decoraters/decoraters1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
